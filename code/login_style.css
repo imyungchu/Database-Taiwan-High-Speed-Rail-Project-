@@ -1,0 +1,35 @@
+/*body{
+    font-family:Roboto;
+    background-color:white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+*/
+.login{
+    background-color:#FF8040;
+    width:400px;
+    color:white;
+    padding:40px;
+    text-align:center;
+}
+
+.login input{
+    display:block;
+    margin:20px auto;
+    text-align:center;
+    background:none;
+    padding:12px;
+    font-size:15px;
+    border-radius:22px;
+    border-color:white;
+    outline-color:white;
+    color:white;
+}
+
+.student{
+    background-color:#FF8040;
+    width:400px;
+    color:white;
+    padding:0px 40px 40px 40px;
+}

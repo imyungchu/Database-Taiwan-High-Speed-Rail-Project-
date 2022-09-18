@@ -1,0 +1,53 @@
+.list{
+    background-color:#FF8040;
+    width:400px;
+    color:white;
+    padding:40px;
+}
+
+.list input{
+    display:block;
+    margin:20px auto;
+    background:none;
+    padding:12px;
+    font-size:15px;
+    border-radius:22px;
+    border-color:white;
+    outline-color:white;
+    color:#FF8040;
+}
+
+.list select{ 
+    margin:20px auto;
+    padding:12px;
+    background:transparent; 
+    width:150px; 
+    font-size:15px;
+    color:#613414; 
+    border-radius:22px;
+    border-color:white;
+    border-width:2px; 
+    height:45px; 
+
+  } 
+
+.search{
+    border-color:#FF8040;
+    border-width:5px;
+    border-style:solid;
+    width:400px;
+    color:black;
+    padding:40px;
+}
+
+.search input{
+    display:block;
+    margin:20px auto;
+    background:none;
+    padding:12px;
+    font-size:15px;
+    border-radius:22px;
+    border-color:#FF8040;
+    outline-color:#FF8040;
+    color:black;
+}

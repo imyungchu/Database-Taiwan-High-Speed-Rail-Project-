@@ -1,0 +1,30 @@
+.search{
+    border-color:#FF8040;
+    border-width:5px;
+    border-style:solid;
+    width:900px;
+    color:black;
+    padding:40px;
+}
+
+.search input{
+    display:block;
+    margin:20px auto;
+    background:none;
+    padding:12px;
+    font-size:15px;
+    border-radius:22px;
+    border-color:#FF8040;
+    outline-color:#FF8040;
+    color:black;
+}
+
+th,td{
+    border:0px solid white;  
+    font-size:16px; 
+    width:300px;
+    border:1px solid white;
+    text-align:center;
+    border-collapse:collapse;
+}
+
